@@ -137,7 +137,7 @@ This ending is usually pronounced as a short *í* + *nnaí*. Wagner (1959) says 
 	+ *gamhna, fiacla* etc.
 
 ## 4.4. The usage of the genitive
-Often when someone is listening to native speakers they'll hear the nominative case in use where they'd be expecting the genitive case. This is a tendency that's been growing in the language for hundreds of years but it's clear that the change is not fully complete yet. It's heard to assess the situation exactly but the following rules can help show the current state.
+Often when someone is listening to native speakers they'll hear the nominative case in use where they'd be expecting the genitive case. This is a tendency that's been growing in the language for hundreds of years but it's clear that the change is not fully complete yet. It's hard to assess the situation exactly but the following rules can help show the current state.
 
 + (i) The genitive is alive and well in phrases and sayings which people essentially know by heart, namely:
 	+ *i lár an lae/na hoíche*
